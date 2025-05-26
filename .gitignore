@@ -1,0 +1,17 @@
+# General Python ignores
+venv/
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+*.csv
+*.pkl
+*.h5
+dataset/
+models/
+.env
+
+# Ignore Models
+AutoGluonModels/
+
+# Ignore Datasets
+bike_sharing_dataset/
